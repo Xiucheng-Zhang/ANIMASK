@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "ANIMASK"
+version: 0.1.0
+date-released: 2026-09-15
+license: Apache-2.0
+repository-code: "https://github.com/Xiucheng-Zhang/ANIMASK"
+authors:
+  - family-names: Zhang
+    given-names: Xiucheng
+    affiliation: New York University
+  - family-names: Xu
+    given-names: Zhuoning
+    affiliation: New York University
+  - family-names: Luo
+    given-names: Hanjun
+    affiliation: New York University; New York University Abu Dhabi
+  - family-names: Chen
+    given-names: Yankai
+    affiliation: MBZUAI
+  - family-names: Salam
+    given-names: Hanan
+    affiliation: New York University Abu Dhabi
+  - family-names: Liu
+    given-names: Xue
+    affiliation: MBZUAI
+abstract: >-
+  Re-simulating stories with LLM role-playing agents and measuring the
+  replay against the original text: world-package construction, a
+  multi-agent simulation engine, and an LLM-judge evaluation chain.
+preferred-citation:
+  type: article
+  title: "ANIMASK: What the Model Contributes to Role Play in Simulated Story Worlds"
+  year: 2026
+  authors:
+    - family-names: Zhang
+      given-names: Xiucheng
+    - family-names: Xu
+      given-names: Zhuoning
+    - family-names: Luo
+      given-names: Hanjun
+    - family-names: Chen
+      given-names: Yankai
+    - family-names: Salam
+      given-names: Hanan
+    - family-names: Liu
+      given-names: Xue

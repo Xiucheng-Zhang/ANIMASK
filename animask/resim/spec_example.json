@@ -1,0 +1,6 @@
+[
+  {"sid": "story01", "language": "en", "runs": 1},
+  {"sid": "story01", "language": "en", "runs": 1, "actor_model": "claude-sonnet-5"},
+  {"sid": "story02", "language": "zh", "runs": 1, "actor_model": "qwen3.7-plus"},
+  {"sid": "story02", "language": "zh", "runs": 1, "persona": "P0"}
+]

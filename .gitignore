@@ -1,0 +1,30 @@
+# ---- secrets ----
+.env
+.env.*
+!.env.example
+
+# ---- OS / editor / caches ----
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# ---- experiment outputs, logs, backups (large / regenerable) ----
+/results/
+/backups/
+engine/log/
+*.tgz
+*.tar.gz
+*.zip
+
+# ---- source corpus & derived packs (copyrighted texts; see README) ----
+/data/
+engine/data/
+engine/presets/*.json
+
+# ---- local environments / editors ----
+venv/
+.venv/
+.idea/
+.vscode/
+*.egg-info/

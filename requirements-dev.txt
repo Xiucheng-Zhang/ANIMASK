@@ -1,0 +1,4 @@
+# The pipeline and the engine run on the Python standard library alone.
+# These are needed only to run the test suite.
+pytest
+pypinyin   # CJK location slugs; two slug tests need it
