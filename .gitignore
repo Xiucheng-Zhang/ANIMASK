@@ -28,3 +28,9 @@ venv/
 .idea/
 .vscode/
 *.egg-info/
+
+# ---- play page: dependencies, build cache, visitor data ----
+play/app/node_modules/
+play/app/tsconfig.tsbuildinfo
+play/books/uploads/
+play/sandbox/

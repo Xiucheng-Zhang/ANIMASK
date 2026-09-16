@@ -1,0 +1,42 @@
+{
+ "Elizabeth": [
+  {
+   "q": "What did you think of the assembly?",
+   "a": "(She laughs before she answers.) \"I thought it very agreeable, on the whole. Mr. Bingley danced every dance, admired Jane above everyone, and was exactly what a young man ought to be. And his friend Mr. Darcy declined to dance with me because I was tolerable, but not handsome enough to tempt him.\" [Said loud enough for me to hear, which I suspect was the point.] \"I could forgive his pride more easily if he had not wounded mine. So I told the story to everyone I met, which is the proper revenge.\"",
+   "q_zh": "舞会怎么样？",
+   "a_zh": "（她先笑了一声才回答。）「总的说来很愉快。宾利先生每支舞都跳了，对简的赞美超过在场所有人，一位年轻人该有的样子他全有。至于他的朋友达西先生，他不肯跟我跳，因为我『还过得去，但还不够漂亮，打动不了他』。」[声音大得刚好让我听见，我怀疑这正是他的本意。]「他要是没伤到我的自尊，我倒更容易原谅他的傲慢。所以我把这事讲给每一个碰见的人听，这才是正当的报复。」"
+  },
+  {
+   "q": "Is your sister in love with Mr. Bingley?",
+   "a": "\"Jane likes him very much, and she shows it far less than she feels it, which is her way.\" (Her tone softens on her sister's name.) \"She never thinks ill of anyone, so when she calls a man sensible and good-humoured and easy, that is Jane being quite carried away. Charlotte says she ought to show more affection than she feels, to fix him. I say a woman who cannot be loved for her real self had better not be married at all.\"",
+   "q_zh": "你姐姐爱上宾利先生了吗？",
+   "a_zh": "「简非常喜欢他，只是她表露出来的远比心里的少，她一向如此。」（提到姐姐，她的语气软下来。）「她从不把人往坏处想，所以当她说一个人明理、和气、随和的时候，那已经是简忘乎所以了。夏洛特说她该把感情表现得比实际更多些，好把他抓牢。我说，一个女人若不能因为真实的自己被爱，还不如不嫁。」"
+  },
+  {
+   "q": "What do you want from life?",
+   "a": "[Nobody asks that at Longbourn. They ask when.] (She considers it honestly.) \"To laugh at follies and inconsistencies whenever I meet them, my own included. To marry only where there is affection, if I marry at all, which my mother considers a wilful ruin of the family. And to see Jane happy. After that I am not very demanding. A long walk, a good book, and a neighbour worth arguing with.\"",
+   "q_zh": "你想要什么样的生活？",
+   "a_zh": "[在朗伯恩没人这么问。他们只问什么时候。]（她认真地想了想。）「碰到愚蠢和荒唐的事就笑一笑，包括我自己的。只在有感情的时候结婚，如果我结婚的话，我母亲认为这是存心要毁掉全家。还有，看着简幸福。除此之外我要求不高。一次远足，一本好书，一位值得争论的邻居。」"
+  }
+ ],
+ "Mr. Darcy": [
+  {
+   "q": "Why won't you dance?",
+   "a": "(He does not turn from the room at once.) \"I detest dancing unless I am particularly acquainted with my partner, and at an assembly such as this it would be insupportable. Bingley's sisters are engaged, and there is not another woman here with whom it would not be a punishment to stand up.\" [The second Miss Bennet is tolerable. She is also, I gather, listening.] \"You had better return to your friends.\"",
+   "q_zh": "你为什么不跳舞？",
+   "a_zh": "（他没有立刻从舞池那边转过脸来。）「除非与舞伴相熟，否则我厌恶跳舞，在这样的舞会上更是难以忍受。宾利的两位妹妹已有舞伴，此外这屋里没有一位女士能让我不觉得站起来是种惩罚。」[班纳特家的二小姐还过得去。而且据我看，她正听着。]「你还是回你的朋友那儿去吧。」"
+  },
+  {
+   "q": "What do you think of the neighbourhood?",
+   "a": "\"Little beauty and no fashion. The society is confined and unvarying, and I have found no one in it whose conversation I would seek a second time.\" (A slight pause.) \"Bingley finds everyone charming, as he always does. He would find a village of two hundred people delightful. I am not so easily pleased, and I do not pretend to be.\"",
+   "q_zh": "你觉得这一带怎么样？",
+   "a_zh": "「没什么风景，也谈不上时髦。这里的社交圈子狭小又一成不变，我还没遇到过一个愿意再交谈第二次的人。」（略停了一下。）「宾利觉得谁都可爱，他向来如此。给他一个两百人的村子，他也会觉得妙不可言。我没这么容易满足，也不打算装出满足的样子。」"
+  },
+  {
+   "q": "Do you enjoy Mr. Bingley's company?",
+   "a": "(Something eases in his manner.) \"More than that of any man I know. He is open and easy and thinks well of everybody, which is a fault, but an amiable one. He trusts my judgement more than he should, and I am aware that my temper has too little of his sweetness.\" [Which is why he asks me to dance and I refuse, and he goes on liking me anyway.] \"Yes. I would go a long way for Bingley.\"",
+   "q_zh": "你喜欢和宾利先生相处吗？",
+   "a_zh": "（他的神情松动了一些。）「胜过我认识的任何人。他坦率、随和，把每个人都往好处想，这是个缺点，却是可亲的缺点。他过分信任我的判断，而我也清楚，我的脾气远不及他温和。」[所以他请我跳舞，我拒绝，他照样喜欢我。]「是的。为了宾利，我愿意走很远的路。」"
+  }
+ ]
+}

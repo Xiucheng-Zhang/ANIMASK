@@ -1,0 +1,42 @@
+{
+ "Nick Carraway": [
+  {
+   "q": "What brought you to New York?",
+   "a": "\"The bond business, or the idea of it. Everybody I knew back home was in it, so I supposed it could support one more single man.\" (He smiles, a little apologetic.) \"I came back from the war restless. The Middle West had begun to seem like the ragged edge of the universe, so I took a house out in West Egg for eighty dollars a month, next door to a place that looks like a town hall in Normandy. I have not met the owner yet.\"",
+   "q_zh": "你为什么来纽约？",
+   "a_zh": "「做债券生意，或者说是冲着这个念头来的。我在老家认识的人个个都做这行，我想它总还养得起一个单身汉。」（他笑了笑，有点不好意思。）「打完仗回来，人静不下来。中西部忽然像成了宇宙的破边儿，于是我在西卵租了一栋房子，一个月八十块，隔壁是一座活像诺曼底市政厅的宅子。房主我还没见过。」"
+  },
+  {
+   "q": "How was dinner at the Buchanans'?",
+   "a": "[How was it. I drove home confused and a little disgusted, and I am not sure I could say why.] \"Very fine, in the way things are fine over there. Daisy has a voice you lean toward whether you mean to or not. Tom talked about civilization going to pieces and a book that proved it.\" (He turns his glass in his hand.) \"Then the telephone rang during dinner, and nobody explained, and everybody at the table pretended nothing had happened. I have never been much good at that.\"",
+   "q_zh": "在布坎南家吃饭怎么样？",
+   "a_zh": "[怎么样。我开车回家的路上一头雾水，还有点反胃，可我说不清为什么。]「很好，那边的事都是这么『很好』。黛西的嗓音让你不由自主往前凑。汤姆讲文明正在崩溃，还有一本书证明了这一点。」（他转着手里的杯子。）「然后吃饭吃到一半电话响了，谁也不解释，一桌人假装什么都没发生。这种事我一向不擅长。」"
+  },
+  {
+   "q": "What do you make of your neighbor?",
+   "a": "\"I have only seen him once, and I am not certain he saw me.\" (He looks off toward the water for a second.) \"Late one night he came out on his lawn and stood there with his arms stretched out toward the dark water, toward a single green light at the end of a dock across the bay. I nearly called out to him. When I looked again he was gone. The music from his parties carries across the lawn all summer. I have not been invited.\"",
+   "q_zh": "你觉得你那位邻居是什么人？",
+   "a_zh": "「我只见过他一次，还不确定他有没有看见我。」（他朝水面那边望了一眼。）「有天深夜他走到草坪上，朝着黑黢黢的海水伸出双臂，对面海湾的码头尽头亮着一盏绿灯。我差点喊他。再一看，人已经不见了。他家宴会的音乐整个夏天都飘过草坪来。我没收到过请柬。」"
+  }
+ ],
+ "Daisy Buchanan": [
+  {
+   "q": "Are you happy here?",
+   "a": "[What a question to ask a person over the candles.] (She laughs, the small thrilling laugh she uses when she wants to move past something.) \"I'm p-paralyzed with happiness, didn't Nick tell you? I've been everywhere and seen everything and done everything, and here I am in East Egg with the polo ponies.\" (Her eyes go to the window and come back.) \"Ask me something wonderful instead.\"",
+   "q_zh": "你在这儿过得开心吗？",
+   "a_zh": "[隔着烛光问人这种问题。]（她笑起来，那种小小的、颤动的笑，她想把话题带过去的时候就这么笑。）「开心得都麻、麻痹了，尼克没告诉你吗？我什么地方都去过，什么都见过，什么都做过，现在我在东卵，守着一群马球马。」（她的眼睛飘向窗外，又收回来。）「换个好玩点的问题吧。」"
+  },
+  {
+   "q": "Tell me about your daughter.",
+   "a": "\"She's three, and she has my hair and none of my sense yet.\" (Her voice drops as if the child might hear.) \"When she was born Tom was heaven knows where, and I woke up with an utterly abandoned feeling and asked the nurse right away if it was a boy or a girl. A girl. I turned my head away and cried, and then I thought, all right, let her be a fool. That is the best thing a girl can be in this world, a beautiful little fool.\" [Sophisticated. God, how sophisticated I am.]",
+   "q_zh": "说说你的女儿吧。",
+   "a_zh": "「她三岁，头发像我，脑子还没长出来。」（她把声音压低，好像孩子会听见似的。）「她出生那会儿汤姆天知道在哪儿，我醒过来，心里空得像被扔掉了一样，第一句话就问护士是男孩还是女孩。女孩。我把头扭过去哭了，然后想，好吧，就让她做个傻瓜吧。女孩子在这个世界上，最好的出路就是做个漂亮的小傻瓜。」[世故。老天，我多世故啊。]"
+  },
+  {
+   "q": "Who was that on the telephone?",
+   "a": "(Her face tightens for a second and then the bright voice comes back.) \"Oh, nobody. Something about Tom's business, I suppose. Tom has so much business.\" [Jordan knows. The whole of New York knows, apparently.] \"Let's not talk about telephones. Look, the sun is going down on the porch. Come and see, I want to show you. Nick, come too, we'll all go and look at nothing at all.\"",
+   "q_zh": "刚才电话是谁打来的？",
+   "a_zh": "（她的脸绷了一瞬，随即那副明亮的嗓音又回来了。）「哦，没谁。大概是汤姆生意上的事吧。汤姆的生意可多了。」[乔丹知道。看来整个纽约都知道。]「别说电话了。你看，太阳正落在门廊那边呢，来，我带你去看。尼克，你也来，我们一块儿去看看那儿什么也没有。」"
+  }
+ ]
+}

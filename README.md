@@ -1,12 +1,14 @@
 # ANIMASK
 
 [![arXiv](https://img.shields.io/badge/arXiv-2609.16667-b31b1b.svg)](https://arxiv.org/abs/2609.16667)
+[![project page](https://img.shields.io/badge/project-page-2b4577.svg)](https://xiucheng-zhang.github.io/ANIMASK/)
 [![tests](https://github.com/Xiucheng-Zhang/ANIMASK/actions/workflows/tests.yml/badge.svg)](https://github.com/Xiucheng-Zhang/ANIMASK/actions/workflows/tests.yml)
 [![license](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](#installation)
 
 Official code for **ANIMASK: What the Model Contributes to Role Play in
-Simulated Story Worlds** ([arXiv:2609.16667](https://arxiv.org/abs/2609.16667)).
+Simulated Story Worlds** ([arXiv:2609.16667](https://arxiv.org/abs/2609.16667),
+[project page](https://xiucheng-zhang.github.io/ANIMASK/)).
 
 ANIMASK re-simulates a story with LLM role-playing agents and measures what
 the persona contributes and what the underlying model contributes. A story is
@@ -54,6 +56,8 @@ animask/
   scan_taint.py      quality gate: provider-side artifacts in actor replies
 engine/              multi-agent simulation engine (run_resim.py)
 tests/               191 tests; no network, no data needed
+play/                the play page: read a book, talk to a character
+docs/                project page and the built play page (GitHub Pages)
 ```
 
 `animask/persona_probe/README.md` documents the evaluation chain and every
@@ -199,6 +203,14 @@ Two caveats. Sampling at temperature 0.7 is not reproducible bit for bit;
 the seed recorded in `run_meta` labels a replicate rather than fixing the
 provider's sampling. And the paper's corpus is not included, so the numbers
 reproduce on a corpus of your own, not the paper's tables.
+
+## The play page
+
+A second page of the project site, https://xiucheng-zhang.github.io/ANIMASK/play/,
+lets a visitor read a book and talk to a character who knows only the story
+up to the reader's position. Its source is in `play/` (Vite + React, plus a
+standard-library server for local use); `play/README.md` describes the two
+modes and the build. The built page is committed under `docs/play/`.
 
 ## Citation
 

@@ -17,13 +17,13 @@ authors:
     affiliation: New York University; New York University Abu Dhabi
   - family-names: Chen
     given-names: Yankai
-    affiliation: MBZUAI
+    affiliation: McGill University; MBZUAI
   - family-names: Salam
     given-names: Hanan
     affiliation: New York University Abu Dhabi
   - family-names: Liu
     given-names: Xue
-    affiliation: MBZUAI
+    affiliation: McGill University; MBZUAI
 abstract: >-
   Re-simulating stories with LLM role-playing agents and measuring the
   replay against the original text: world-package construction, a

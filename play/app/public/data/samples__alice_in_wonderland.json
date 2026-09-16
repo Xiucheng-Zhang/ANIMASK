@@ -1,0 +1,42 @@
+{
+ "Alice": [
+  {
+   "q": "Where are you right now?",
+   "a": "[A hall with a great many doors, and every one of them locked. That much I am sure of.] (She turns a little golden key over in her fingers.) \"I'm not entirely certain, to tell the truth. I was on the bank with my sister, and then there was a rabbit with a waistcoat and a watch, and then I was falling for ever so long. Now I am here, and the only door I can open leads to the loveliest garden, and I am far too large to get through it.\"",
+   "q_zh": "你现在在哪儿？",
+   "a_zh": "[一个大厅，好多扇门，每一扇都锁着。这一点我倒是确定的。]（她把一把小小的金钥匙在手指间翻来翻去。）「说实话，我也不太清楚。我本来和姐姐坐在河岸上，然后来了一只穿背心、带怀表的兔子，然后我就掉啊掉，掉了好久好久。现在我在这儿了，唯一打得开的那扇门通向一座顶顶好看的花园，可我太大了，怎么也钻不过去。」"
+  },
+  {
+   "q": "Aren't you frightened?",
+   "a": "(She considers the question very seriously, the way one considers a sum.) \"I don't believe I am. I was surprised, certainly, but the falling was quite slow, and there was time to look at the cupboards and maps on the way down. What I mind is not knowing the rules. Things ought to have rules.\" [Though I do wish somebody would tell me how to be ten inches high.]",
+   "q_zh": "你不害怕吗？",
+   "a_zh": "（她很认真地想了想，像在算一道算术题。）「我想是不怕的。吃惊当然吃惊，可掉下来的时候慢得很，我还有工夫看两边的碗柜和地图呢。我在意的是不知道规矩。什么事都该有个规矩才对。」[不过要是有谁肯告诉我怎么变成十英寸高，那就好了。]"
+  },
+  {
+   "q": "What did the bottle say?",
+   "a": "\"DRINK ME, in large letters, on a paper label tied round its neck.\" (She holds up her hands to show the size of it.) \"Which was all very well, but I looked first to see whether it was marked poison, because if you drink much from a bottle marked poison it is almost certain to disagree with you sooner or later. It wasn't marked anything of the kind. It tasted of cherry tart and custard and roast turkey and hot buttered toast, all at once, and then I began to shut up like a telescope.\"",
+   "q_zh": "那个瓶子上写了什么？",
+   "a_zh": "「写着『喝我』，大大的字，印在一张纸签上，系在瓶颈上。」（她用两只手比划瓶子有多大。）「话是这么说，可我先看了看有没有写『毒药』，因为要是从写着『毒药』的瓶子里喝很多，早晚要出岔子的。上面什么也没写。喝起来像樱桃馅饼，又像蛋奶糊，又像烤火鸡和热黄油吐司，全混在一块儿。然后我就像望远镜一样，一节一节缩起来了。」"
+  }
+ ],
+ "White Rabbit": [
+  {
+   "q": "Why are you in such a hurry?",
+   "a": "(He pulls a watch out of his waistcoat-pocket, looks at it, and shudders.) \"Oh dear, oh dear, how late it's getting! The Duchess, the Duchess! Won't she be savage if I've kept her waiting!\" [Not a moment for strangers. Not half a moment.] \"If you'll excuse me, I really cannot stop.\"",
+   "q_zh": "你急什么呀？",
+   "a_zh": "（他从背心口袋里掏出怀表，看了一眼，浑身一哆嗦。）「天哪，天哪，这么晚了！公爵夫人，公爵夫人！要是让她等久了，她不知道要发多大的火！」[没工夫理陌生人。半刻也没有。]「失陪，我真的一步也停不下来。」"
+  },
+  {
+   "q": "What have you lost?",
+   "a": "\"My gloves! A pair of white kid gloves, brand new, and my fan.\" (He pats at his waistcoat as if they might have crept back in.) \"I had them a moment ago, I am quite certain, and now they are simply gone. Things do keep vanishing today.\" [If some creature has made off with them I shall have a great deal to say about it.]",
+   "q_zh": "你丢了什么？",
+   "a_zh": "「我的手套！一副崭新的白色小山羊皮手套，还有我的扇子。」（他拍着背心，好像它们会自己爬回口袋似的。）「刚才明明还在手里，我肯定，转眼就没了。今天什么东西都在往外消失。」[要是哪个家伙把它们拿走了，我可有好些话要说。]"
+  },
+  {
+   "q": "Who is the Duchess?",
+   "a": "(He goes quite pale under his fur.) \"You don't know the Duchess? Then you are a stranger here indeed.\" [Or a very fortunate one.] \"She is the one I answer to, and she does not care to be kept waiting, not by a rabbit, not by anybody. That is all you need to know, and rather more than is good for you. Oh my ears and whiskers, the time!\"",
+   "q_zh": "公爵夫人是谁？",
+   "a_zh": "（他毛皮底下的脸都白了。）「你不知道公爵夫人？那你可真是个外乡人。」[或者是个很有福气的人。]「她是我的主人，她最不耐烦等，兔子不行，谁都不行。你知道这些就够了，已经比对你有好处的多得多了。哎呀我的耳朵和胡子，时间！」"
+  }
+ ]
+}
