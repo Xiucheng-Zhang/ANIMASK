@@ -1,11 +1,12 @@
 # ANIMASK
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.16667-b31b1b.svg)](https://arxiv.org/abs/2609.16667)
 [![tests](https://github.com/Xiucheng-Zhang/ANIMASK/actions/workflows/tests.yml/badge.svg)](https://github.com/Xiucheng-Zhang/ANIMASK/actions/workflows/tests.yml)
 [![license](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](#installation)
 
 Official code for **ANIMASK: What the Model Contributes to Role Play in
-Simulated Story Worlds** (2026).
+Simulated Story Worlds** ([arXiv:2609.16667](https://arxiv.org/abs/2609.16667)).
 
 ANIMASK re-simulates a story with LLM role-playing agents and measures what
 the persona contributes and what the underlying model contributes. A story is
@@ -202,11 +203,15 @@ reproduce on a corpus of your own, not the paper's tables.
 ## Citation
 
 ```bibtex
-@article{animask2026,
-  title   = {ANIMASK: What the Model Contributes to Role Play in Simulated Story Worlds},
-  author  = {Zhang, Xiucheng and Xu, Zhuoning and Luo, Hanjun and Chen, Yankai and Salam, Hanan and Liu, Xue},
-  year    = {2026},
-  url     = {https://github.com/Xiucheng-Zhang/ANIMASK}
+@misc{zhang2026animask,
+  title         = {ANIMASK: What the Model Contributes to Role Play in Simulated Story Worlds},
+  author        = {Zhang, Xiucheng and Xu, Zhuoning and Luo, Hanjun and Chen, Yankai and Salam, Hanan and Liu, Xue},
+  year          = {2026},
+  eprint        = {2609.16667},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.AI},
+  doi           = {10.48550/arXiv.2609.16667},
+  url           = {https://arxiv.org/abs/2609.16667}
 }
 ```
 

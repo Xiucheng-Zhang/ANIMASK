@@ -32,6 +32,13 @@ preferred-citation:
   type: article
   title: "ANIMASK: What the Model Contributes to Role Play in Simulated Story Worlds"
   year: 2026
+  journal: "arXiv preprint"
+  doi: 10.48550/arXiv.2609.16667
+  url: "https://arxiv.org/abs/2609.16667"
+  identifiers:
+    - type: other
+      value: "arXiv:2609.16667"
+      description: "arXiv identifier"
   authors:
     - family-names: Zhang
       given-names: Xiucheng
